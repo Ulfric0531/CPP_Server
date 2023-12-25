@@ -1,0 +1,5 @@
+.vs/
+Server/Binary/
+Server/DummyClient/x64/
+Server/GameServer/x64/
+Server/ServerCore/x64/
